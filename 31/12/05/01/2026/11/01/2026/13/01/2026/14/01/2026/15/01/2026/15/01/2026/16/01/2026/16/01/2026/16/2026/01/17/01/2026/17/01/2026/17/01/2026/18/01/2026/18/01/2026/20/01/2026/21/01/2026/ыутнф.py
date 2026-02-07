@@ -1,1 +1,0 @@
-num = float(input("NUMBER: "))
