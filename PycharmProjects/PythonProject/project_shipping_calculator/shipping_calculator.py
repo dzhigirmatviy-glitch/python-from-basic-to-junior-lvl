@@ -1,6 +1,6 @@
 def calculate_shipping(weight_kg, distance_km, priority=False, fragile=False):
     if weight_kg > 50:
-        raise ValueError("Weight kg must be greater than 50")
+        raise ValueError("Weight kg must be lower than 50")
     if weight_kg >= 1:
         base_cost = 50 + 20 * weight_kg
     else:
