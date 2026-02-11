@@ -1,0 +1,14 @@
+[
+    {
+        "id": 2,
+        "item": "bread",
+        "quantity": 6,
+        "bought": true
+    },
+    {
+        "id": 4,
+        "item": "dayson",
+        "quantity": 1,
+        "bought": false
+    }
+]

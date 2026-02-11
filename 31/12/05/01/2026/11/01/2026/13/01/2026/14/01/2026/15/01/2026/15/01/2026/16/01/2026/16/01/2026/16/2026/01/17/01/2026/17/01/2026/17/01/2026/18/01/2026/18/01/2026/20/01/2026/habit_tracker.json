@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "date": "21.01.2026",
+        "habits": {
+            "coding": true,
+            "eat 3 times": true
+        },
+        "comment": "coding Python"
+    },
+    {
+        "id": 2,
+        "date": "22.01.2026",
+        "habits": {
+            "coding": true,
+            "eat 3 times": false
+        },
+        "comment": "Codong python"
+    },
+    {
+        "id": 3,
+        "date": "23.01.2026",
+        "habits": {
+            "coding": true
+        },
+        "comment": "тщту"
+    }
+]
